@@ -13,4 +13,3 @@ Technologies I am familar with:
  - Redis <img src=https://raw.githubusercontent.com/alfiejsmith/alfiejsmith/master/assets/redis.png width="16px;" height="16px;">
  - Git <img src=https://raw.githubusercontent.com/alfiejsmith/alfiejsmith/master/assets/git.png width="16px;" height="16px;">
  
-![Alfie Smith's Github Stats](https://github-readme-stats.vercel.app/api?username=alfiejsmith&show_icons=true&count_private=true)
