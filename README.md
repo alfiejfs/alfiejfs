@@ -1,6 +1,6 @@
 # Alfie Smith
 
-I am a UK based student and and developer.
+I am a UK based student and developer.
 
 Technologies I am familar with:
  - Java <img src=https://raw.githubusercontent.com/alfiejsmith/alfiejsmith/master/assets/java.png width="16px;" height="16px;">
