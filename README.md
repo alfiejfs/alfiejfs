@@ -1,4 +1,4 @@
-# Alfie Smith
+# Alfie-Joe Smith
 
 I am a UK based student and developer.
 
