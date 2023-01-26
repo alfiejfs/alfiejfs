@@ -4,4 +4,4 @@ I am a UK based student and developer currently studying Computer Science at the
 
 I am familiar with Java, Python, C#, Javascript, MySQL, MongoDB, and Redis.
 
-I am learning Haskell and Swift.
+I am learning C++ and Haskell.
